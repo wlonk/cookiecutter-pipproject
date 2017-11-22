@@ -1,9 +1,9 @@
 {
-	"full_name": "Will McGinnis",
+	"full_name": "Kit La Touche",
 	"email": "",
-	"github_username": "wdm0006",
+	"github_username": "wlonk",
 	"project_name": "My Pip Installable Python Package",
 	"app_name": "mypippkg",
 	"project_short_description": "A python package that can be installed with pip.",
-	"version": "0.0.1"
+	"version": "0.1.0"
 }
